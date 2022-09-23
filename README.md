@@ -1,11 +1,13 @@
 문제에 대한 답을 나의 언어로 정리하고 주석을 달아보자
 
 Q01. 다음코드를 실행하면 출력 결과로 5를 기대했는데 4가 출력되었습니다. 어디에서 잘못 작성된 것일까요?
-`int var1=5;
+```
+int var1=5;
 int var2=2;
 double var3=var1/var2;
 int var4=(int)(var3*var2);
-System.out.println(var4);`
+System.out.println(var4);
+```
 
 Q02. 다음 코드를 실행했을 때 출력 결과는 무엇입니까?
 `int x=10;
